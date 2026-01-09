@@ -1,0 +1,12 @@
+// it has both the template page and the contact form section
+{
+    "sections": {
+        "template": {
+            "type": "template-page"
+        },
+        "contact-form": {
+            "type": "contact-form"
+        }
+    },
+    "order": ["template", "contact-form"]
+}
