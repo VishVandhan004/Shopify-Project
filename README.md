@@ -1,46 +1,43 @@
-# :wave: Say hi to Elizabeth :wave:
+# 🛒 Vishnu’s Online Web Store — Shopify Theme
 
-[![Generic badge](https://img.shields.io/badge/course%20available%3F-yes-green.svg)](https://shields.io/)
+A custom Shopify theme built for an online store using **Shopify Liquid + Tailwind CSS**.  
+Fully responsive, fast, and ready for real products.
 
-This project is created and intended to be used for the [Shopify Theme Development – Online Store 2.0 + TailwindCSS course](https://weeklyhow.com/courses/shopify-theme-development-tailwindcss)
+## 🚀 Features
 
+- ✅ Homepage with featured products  
+- ✅ Product pages with variants  
+- ✅ Collections & collection listing pages  
+- ✅ Cart & search functionality  
+- ✅ Blog & article pages  
+- ✅ About & Contact pages  
+- ✅ 404 page  
+- ✅ Mobile-friendly design
 
-[Get the course!](https://weeklyhow.com/) | [Lessons covered](#lessons-covered) |
-[How to use](#how-to-use) | [Not a student?](#not-a-student)
+## 🧰 Tech Stack
 
-## Lessons covered
+- Shopify Liquid  
+- Tailwind CSS  
+- Node.js (for build tools)
 
-Status | Lectures
------------- | -------------
-:heavy_check_mark: | Installing Development Tools
-:heavy_check_mark: | Navigational Bar
-:heavy_check_mark: | 404 Page
-:heavy_check_mark: | Article Page
-:heavy_check_mark: | Blog Page
-:heavy_check_mark: | Cart Page
-:heavy_check_mark: | Product Collection Page
-:heavy_check_mark: | Collections Page
-:heavy_check_mark: | Homepage (Index)
-:heavy_check_mark: | Pages (About & Contact)
-:heavy_check_mark: | Advanced Product Page
-:heavy_check_mark: | Search Page
-:heavy_check_mark: | Customer Templates
-:hourglass: | More lessons coming
+## 📁 Project Structure
 
-## How to use
+- `assets/` → CSS, JS, images  
+- `sections/` → Reusable Shopify sections  
+- `snippets/` → Small Liquid components  
+- `templates/` → Page templates  
+- `layout/` → Theme layout  
+- `config/` → Theme settings
 
-To use this repository for making Shopify themes, use the following command of Shopify CLI.
-```sh
-shopify theme init [ NAME OF YOUR THEME ] --clone-url https://github.com/polidario/Elizabeth_Clean
-```
+## ⚙️ Setup (Local Development)
 
-If you wish to use this repository instead, then feel free to use the following
-```sh
-shopify theme init [ NAME OF YOUR THEME ] --clone-url https://github.com/polidario/Elizabeth
-```
+1. Install dependencies  
+   ```bash
+   npm install
+2. Run the Shopify Theme Server  
+   ```bash
+   shopify theme dev
+## 👤 Author
 
-If you don't have Shopify CLI installed to your computer, navigate to the [installation page of Shopify CLI](https://shopify.dev/themes/tools/cli/installation).
-
-## Not a student
-
-If you're not a student, you can still use this repository to start a new Shopify theme project. However, any issues that you will encounter throughout your development will not be supported as the instructor will only answer questions through the course's QnA page.
+- Vishnu
+- Student Project — Shopify Theme Development
