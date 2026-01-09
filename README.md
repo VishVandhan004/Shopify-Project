@@ -1,4 +1,4 @@
-# 🛒 Vishnu’s Online Web Store — Shopify Theme
+# 🛒 Trendora - Vishnu's Web Mart
 
 A custom Shopify theme built for an online store using **Shopify Liquid + Tailwind CSS**.  
 Fully responsive, fast, and ready for real products.
